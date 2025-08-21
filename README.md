@@ -10,8 +10,8 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone <https://github.com/Phap229/Implementing-a-Blockchain.git>
-   cd <Implementing-a-blockchain>
+   git clone https://github.com/Phap229/Implementing-a-Blockchain.git
+   cd Implementing-a-blockchain
    ```
 
 2. **Install required dependencies:**
@@ -162,5 +162,6 @@ Use the main interface (`python main.py`) to test:
 - **Automatic**: Saves after significant operations
 - **Validation**: Integrity checks on load
 - **Backup**: Support for multiple save files
+
 
 
