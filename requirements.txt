@@ -1,0 +1,12 @@
+# =============================================================================
+# PYTHON DEPENDENCIES - INTE264 Assignment 2
+# =============================================================================
+# This file lists all required Python packages for the blockchain implementation.
+# Install these dependencies using: pip install -r requirements.txt
+#
+# DEPENDENCIES EXPLAINED:
+# =============================================================================
+cryptography>=41.0.0    # Provides RSA encryption, SHA-256 hashing, and digital signatures
+dataclasses>=0.6         # Enables clean data structure definitions (Python 3.7+)
+typing-extensions>=4.0.0 # Provides additional type hints for better code clarity
+# =============================================================================
