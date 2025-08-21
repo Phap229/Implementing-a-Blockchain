@@ -122,21 +122,6 @@ The system uses a modular design with separate classes:
 - Automatic cleanup after mining
 - Merkle root calculation for efficient verification
 
-## 🧪 Testing
-
-### **Run the Demo**
-```bash
-python demo.py
-```
-
-### **Test Individual Features**
-Use the main interface (`python main.py`) to test:
-- Transaction creation and validation
-- Block mining and difficulty adjustment
-- Chain validation and integrity
-- Wallet creation and management
-- P2P networking operations
-
 ## 📁 File Structure
 
 ```
@@ -169,6 +154,7 @@ Use the main interface (`python main.py`) to test:
 - **Automatic**: Saves after significant operations
 - **Validation**: Integrity checks on load
 - **Backup**: Support for multiple save files
+
 
 
 
