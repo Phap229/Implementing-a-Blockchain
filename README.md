@@ -42,6 +42,13 @@ python main.py
 
 ## 💡 How to Use the System
 
+### **Pre-Created Wallets**
+The system comes with 3 pre-created wallets for immediate demonstration:
+- **Alice** - Initial balance: 150 coins
+- **Bob** - Initial balance: 50 coins  
+- **Charlie** - Initial balance: 75 coins
+
+These wallets are automatically created when you start the system, allowing you to immediately test transactions and mining without having to create wallets first. You can still create additional custom wallets using option 6 in the main menu.
 ### 1. **Getting Started**
 - Run `python main.py`
 - Choose option 6 to create your first wallet
@@ -162,6 +169,7 @@ Use the main interface (`python main.py`) to test:
 - **Automatic**: Saves after significant operations
 - **Validation**: Integrity checks on load
 - **Backup**: Support for multiple save files
+
 
 
 
